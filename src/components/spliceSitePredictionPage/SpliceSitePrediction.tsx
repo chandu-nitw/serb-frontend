@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { SpliceAnalysisPage } from "./SpliceAnalysisPage";
-import { SpliceModelInfoPage } from "./SpliceModelnfoPage";
+import { SpliceModelInfoPage } from "./SpliceModelInfoPage";
 import { useSpliceStore } from "@/lib/store/useSpliceStore";
 
 export function SpliceSitePrediction() {
