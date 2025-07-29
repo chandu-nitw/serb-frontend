@@ -39,25 +39,25 @@ const CollaboratorsAndContributors = () => {
             {[
               {
                 name: "Varshitha Bammidi",
-                role: "Research Intern",
+                role: "Developer Intern",
                 img: "/profiles/varshitha.jpeg",
                 link: "https://www.linkedin.com/in/varshitha-bammidi/"
               },
               {
                 name: "Sameera Kusala",
-                role: "Research Intern",
+                role: "Developer Intern",
                 img: "/profiles/sameera.png",
                 link: "https://www.linkedin.com/in/sameera93/"
               },
               {
                 name: "Chaitanyakiran Kommuru",
-                role: "Developer",
+                role: "Research Intern",
                 img: "/profiles/Chaitanyakiran_Kommuru.JPG",
                 link: "#"
               },
               {
                 name: "Meghana",
-                role: "Developer",
+                role: "Research Intern",
                 img: "/profiles/meghna.jpg",
                 link: "#"
               },
